@@ -10,45 +10,47 @@ body, html {
     align-items: center;
     height: 100%;
     flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .header {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: blue; /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
 }
 
 .thiswebsiteisawesome {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: rgb(124, 35, 136); /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
 }
 
 .somerandominfo {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: rgb(13, 13, 219); /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
 }
 
 .quote {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: rgb(80, 80, 177); /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
 }
 
 .calltoaction {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: blue; /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
 }
 
 .footer {
-    width: 100px; /* Adjust as needed */
+    width: 100vw; /* Adjust as needed */
     height: 100px; /* Adjust as needed */
     background-color: rgb(9, 9, 51); /* Just for visibility */
     margin: 0 5px; /* Adjust margin between divs */
