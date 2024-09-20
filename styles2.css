@@ -118,9 +118,11 @@ header nav ul li {
     background: #f9f9f9;
     border: 2px solid #007bff;
     padding: 20px;
-    border-radius: 5px;
+    border-radius: 10px;
     flex: 1;
     min-width: 200px;
+    height: 250px;
+    width: 250px;
     text-align: center;
 }
 
@@ -157,6 +159,8 @@ header nav ul li {
     justify-content: space-between;
     align-items: center;
     background-color: #007bff;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .call-to-action .cta-text h2 {
